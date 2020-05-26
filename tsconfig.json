@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "esnext",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "esModuleInterop": true
+    },
+    "include": [
+        "resources/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "vendor"
+    ]
+}
